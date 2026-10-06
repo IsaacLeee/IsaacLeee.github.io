@@ -1,18 +1,18 @@
 # Isaac Lee — Mechanical Engineering Portfolio
 
-A static engineering portfolio for Isaac Lee, a UC Irvine Mechanical Engineering student graduating in June 2028. The homepage prioritizes engineering projects, followed by manufacturing experience, technical skills, education, a resume, and contact information. Three major projects and a smaller CAD study have dedicated case-study pages.
+A static engineering portfolio for Isaac Lee, a UC Irvine Mechanical Engineering student graduating in June 2028. The homepage prioritizes engineering projects, followed by manufacturing experience, technical skills, education, a resume, and contact information. Five projects have dedicated case-study pages.
 
 The site uses plain HTML, CSS, and JavaScript. There are no dependencies, build tools, accounts required to preview locally, backend services, or paid hosting requirements. It works on GitHub Pages as either a user site or a repository project site. All content remains readable without JavaScript.
 
 ## Latest update
 
-The accent color is `#023821`, sampled from your supplied dark-green swatch. The Killjoy Turret case study now includes March–June 2025 dates, full articulation based on in-game references, advanced SolidWorks features, 17 unique components, assembly mates, and strength/weight-based material selection for manufacturability and assembly. Physical fabrication and test specifics remain placeholders until provided.
+All five projects now appear directly in the homepage grid, including the Killjoy Turret and Hydrogen-Powered RC Car. The hydrogen car case study includes September 2022–June 2024 dates, a 14% chassis mass reduction (1400 g to 1200 g), 10 additional minutes per hydrogen canister, carbon fiber/aluminum fabrication, and electrical integration. The two internal-hardware photos have been moved from Hopper Robot to the hydrogen car case study.
 
 ## Simplified layout
 
-The homepage now has a short introduction, three comparable project cards, a concise experience section, combined qualifications, and contact links. There is no GitHub profile button because you do not have an account. Resume and LinkedIn links work as before.
+The homepage now has a short introduction, five comparable project cards, a concise experience section, combined qualifications, and contact links. There is no GitHub profile button because you do not have an account. Resume and LinkedIn links work as before.
 
-All 15 images are retained. The older CAD study and hydrogen-car photos are under “More work.” Project pages show a brief overview, role, and supplied evidence first; the full engineering write-up remains under “Engineering details.” Missing evidence placeholders remain editable inside disclosures rather than filling the visible page.
+All 15 images are retained. The turret and hydrogen RC car are included directly in the projects grid. Project pages show a brief overview, role, and supplied evidence first; the full engineering write-up remains under “Engineering details.” Missing evidence placeholders remain editable inside disclosures rather than filling the visible page.
 
 To preview without an account, extract the ZIP and double-click `index.html`. A GitHub account is only needed if you choose to publish through GitHub Pages later.
 
