@@ -20,7 +20,7 @@ To preview without an account, extract the ZIP and double-click `index.html`. A 
 
 All 15 supplied images are included, alongside your actual PDF resume and LinkedIn URL: `https://www.linkedin.com/in/isaacbl/`. The optional GitHub setting remains empty and no GitHub profile link is shown.
 
-The headshot appears in About. FSAE includes the full-vehicle CAD context, velocity visualization, and carbon-fiber photograph. Hopper includes its assembly, CAD, wiring diagram, and two internal-hardware views. Rover includes the team workbench photograph. The CAD study includes the assembly rendering and exploded view. Three hydrogen-car/team photographs appear in a smaller supporting archive rather than a primary project.
+The headshot appears in the homepage introduction. FSAE includes the full-vehicle CAD context, velocity visualization, and carbon-fiber photograph. Hopper includes its assembly, CAD, and wiring diagram. Rover includes the team workbench photograph. The turret includes the assembly rendering and exploded view. The hydrogen RC car case study includes five photos: the vehicle, two internal-hardware views, vehicles in transport, and the team.
 
 The two circular-platform internal-hardware photos were visually matched to the hopper, although their original folder was named `Hydrogen Car Images`. The FSAE CFD image is captioned as velocity evidence, not pressure coefficient evidence. Missing engineering details and unsupplied media remain labeled placeholders; optional gallery slots are tucked into “Additional evidence to add.”
 
