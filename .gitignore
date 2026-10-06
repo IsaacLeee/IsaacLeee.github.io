@@ -1,0 +1,6 @@
+# Local preview / editor files; website assets and PDFs remain tracked.
+.DS_Store
+Thumbs.db
+.vscode/
+__pycache__/
+*.log
